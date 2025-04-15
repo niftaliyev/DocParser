@@ -45,7 +45,7 @@ DocParser API — это RESTful сервис для парсинга докум
 
 5. Откройте Swagger UI для тестирования API:
     ```
-    https://localhost:5001/swagger
+    https://localhost:5000/swagger
     ```
 
 ---
